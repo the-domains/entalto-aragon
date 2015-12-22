@@ -1,0 +1,28 @@
+name: Entalto Aragón
+favicon: null
+layout_spectrum: 0.46417110809125006
+typography_spectrum: 0.6944768682587892
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.239419772522524
+  lightness: 0.9398946824949235
+  saturation: 0.5007631641346961
+  rhythmicContrast: 0.7032606152351946
+purpose: []
