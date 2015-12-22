@@ -2,13 +2,21 @@
     <channel>
         <title><![CDATA[Aragón independiente]]></title>
         <description><![CDATA[Aragón independiente]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/entalto-aragon/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 22 Dec 2015 12:55:07 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 22 Dec 2015 13:07:53 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/entalto-aragon/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <link>undefinedde43a013-b539-4b9a-b3f3-29099601cfb3/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/631921d5-340c-4d0f-aca7-d1cf1385d1f9.jpg">]]></description>
+            <link>https://thegrid.ai/entalto-aragon/bandera/index.html</link>
+            <guid isPermaLink="false">403a2a4b-ff0e-4950-9d80-592c69c77572</guid>
+            <pubDate>Tue, 22 Dec 2015 13:07:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Lorem ipsum dolor sit</p>]]></description>
+            <link>https://thegrid.ai/entalto-aragon/de43a013-b539-4b9a-b3f3-29099601cfb3/index.html</link>
             <guid isPermaLink="false">de43a013-b539-4b9a-b3f3-29099601cfb3</guid>
             <pubDate>Tue, 22 Dec 2015 12:55:07 GMT</pubDate>
         </item>
